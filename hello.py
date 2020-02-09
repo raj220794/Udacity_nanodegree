@@ -1,1 +1,1 @@
-print ("Hello to the world of data-analysis")
+print ("Hello Word")
